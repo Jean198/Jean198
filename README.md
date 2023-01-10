@@ -7,6 +7,7 @@ I have a background in applied mathematics with a masters degree, and my passion
 ## Some of my projects
 
 - [Helsinki city bike journey's information ](https://helsinki-city-bikes.netlify.app/)
-- [Duck Duck Go](https://duckduckgo.com)
-- [Duck Duck Go](https://duckduckgo.com)
-- [Duck Duck Go](https://duckduckgo.com)
+- [Finnmarket website](https://finnmarket.fi)
+- [Drones monitoring](https://reaktor-birdnest-frontend.onrender.com/https://duckduckgo.com)
+
+Checkout all my projects at my - [portfolio website](https://quiet-mochi-1a6334.netlify.app/)
