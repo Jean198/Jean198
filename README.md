@@ -19,7 +19,7 @@ I have a background in applied mathematics with a masters degree, and my passion
 
 Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.netlify.app/)
 
-You can reach out to me on :point_down:
+### You can reach out to me on :point_down:
 
  <a href="https://www.linkedin.com/in/jean-de-dieu-niyigaba-235587168/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
