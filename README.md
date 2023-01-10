@@ -22,3 +22,7 @@ Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.ne
 You can reach out to me on :point_down:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-de-dieu-niyigaba-235587168/)
+
+ <a href="https://virtanen.dev">
+    <img src="https://img.shields.io/badge/Website-03F4A9?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
+  </a>
