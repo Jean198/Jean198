@@ -1,4 +1,6 @@
-# Hello :wave: I am Jean, Welcome to my GitHub :hugs:
+# Hello :wave: I am Jean
+
+welcome to my github :hugs:
 
 I have a background in applied mathematics with a masters degree, and my passion is coding and developing Web Applications.
 
