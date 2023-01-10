@@ -18,3 +18,5 @@ I have a background in applied mathematics with a masters degree, and my passion
 - [Drones monitoring app (Reaktor internship pre-assgnment 2023)](https://reaktor-birdnest-frontend.onrender.com/)
 
 Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.netlify.app/)
+
+Youcan reach out to me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-de-dieu-niyigaba-235587168/)
