@@ -3,7 +3,13 @@
 I have a background in applied mathematics with a masters degree, and my passion is coding and developing Web Applications.
 
 :hammer_and_wrench: I have monstly done my projects with JavaScript, React and Node js. At the moment I am exploring what TypeScript has to offer :slightly_smiling_face:
-### What I am learning next :point_down:
+### Next on my list :point_down:
+- TypeScript
+- Material UI
+- Docker
+- AWS
+
+
 
 ## Some of my projects
 
