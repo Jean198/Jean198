@@ -8,6 +8,6 @@ I have a background in applied mathematics with a masters degree, and my passion
 
 - [Helsinki city bike journey's information ](https://helsinki-city-bikes.netlify.app/)
 - [Finnmarket website](https://finnmarket.fi)
-- [Drones monitoring](https://reaktor-birdnest-frontend.onrender.com/https://duckduckgo.com)
+- [Drones monitoring](https://reaktor-birdnest-frontend.onrender.com/)
 
 Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.netlify.app/)
