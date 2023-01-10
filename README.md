@@ -21,6 +21,17 @@ Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.ne
 
 You can reach out to me on :point_down:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-de-dieu-niyigaba-235587168/)
+ <a href="https://www.linkedin.com/in/jean-de-dieu-niyigaba-235587168/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+
+ <a href="https://quiet-mochi-1a6334.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-03F4A9?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
+ </a>
+ 
+  </a>
+    <a href="mailto: jeandedieu.niyigaba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0DABFC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
+  </a>
 
 
