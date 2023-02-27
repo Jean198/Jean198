@@ -27,7 +27,7 @@ I have a background in applied mathematics with a masters degree, and my passion
 
 
 ## Some of my projects
-
+- [Warehouse Management System ](https://wms-app-coral.vercel.app/)
 - [Helsinki city bike journey's information(Solita internship pre-assignment 2023) ](https://helsinki-city-bikes.netlify.app/)
 - [Finnmarket website](https://finnmarket.fi)
 - [Drones monitoring app (Reaktor internship pre-assignment 2023)](https://reaktor-birdnest-frontend.onrender.com/)
