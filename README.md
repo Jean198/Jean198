@@ -33,7 +33,7 @@ I have a background in applied mathematics with a masters degree, and my passion
 - [Finnmarket website](https://finnmarket.fi)
 - [Drones monitoring app (Reaktor internship pre-assignment 2023)](https://reaktor-birdnest-frontend.onrender.com/)
 
-Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.netlify.app/)
+Checkout all my projects at my [portfolio website](https://jeanniyigaba.netlify.app/)
 
 ### You can reach out to me on :point_down:
 
