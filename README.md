@@ -41,7 +41,7 @@ Checkout all my projects at my [portfolio website](https://quiet-mochi-1a6334.ne
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 
- <a href="https://quiet-mochi-1a6334.netlify.app/">
+ <a href="https://jeanniyigaba.netlify.app/">
     <img src="https://img.shields.io/badge/Website-03F4A9?style=for-the-badge&logo=react&logoColor=white" alt="Website Badge"/>
  </a>
  
